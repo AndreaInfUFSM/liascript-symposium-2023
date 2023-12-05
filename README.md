@@ -504,7 +504,7 @@ Some challenges we face...
 
 Time to design a good quality course flow
 
-![](https://img.freepik.com/fotos-premium/ampulheta-com-areia-azul-em-fundo-azul_39791-89.jpg)
+![](img/ampulheta-com-areia-azul-em-fundo-azul_39791-89.jpg)
 
 <!-- --{{1}}-- I think the greater challenge is that it takes a lot of time to design a good quality course flow that fits well to presentation, slides and textbook modes.  -->
 
