@@ -323,7 +323,8 @@ First LiaScript User-Symposium, 6 Nov 2023
 <!-- --{{1}}-- Hello! I'm a professor at the Department of Languagens and Computing Systems at the Federal University of Santa Maria, Brazil. -->
 
 
-![](img/pulse-icon-map.gif) 
+
+<img src="img/pulse-icon-map.gif" alt="map with pulsing icon on UFSM" width="700" >
 
 
 <!-- --{{2}}-- UFSM is a large public higher education institution offering more than 200 graduate and undergraduate programs in nearly all knowledge areas, with almost 30,000 students enrolled -->
